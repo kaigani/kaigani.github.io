@@ -52,14 +52,14 @@ window.onload = function () {
 
 	var messages = [
 
-		"creative director",
-		"works at Mindshapes",
-		"making children's apps",
-		"and games",
-		"with a passion for",
-		"interactive design",
-		"R&D prototyping",
-		"learning & education",
+		"ux creative director",
+		"innovation prototyping",
+		"user experience design",
+		"product design",
+		"game design",
+		"agile design sprints",
+		"storytelling & narrative",
+		"and, above all, fun!",
 		"..."
 	];
 	var messageIndex = 0;
